@@ -1,0 +1,149 @@
+- id: 1997Ern
+  RE: void
+  AU: A. Ern
+  YP: 1997
+  TI: "Contribution à la modélisation mathématique et numérique des écoulements laminaires avec chimie complexe et transport multi-espèces"
+  N1: Université Paris 6
+- id: 1997Le Bris
+  RE: void
+  AU: C. Le Bris
+  YP: 1997
+  TI: "Contribution à l'étude mathématique et numérique de quelques problèmes non linéaires issus des sciences physiques : chimie quantique moléculaire et mécanique des fluides"
+  N1: Université Paris-Dauphine
+- id: 1998Cohen
+  RE: void
+  AU: S. Cohen
+  YP: 1998
+  TI: void
+  N1: Université de Versailles
+- id: 1998Lapeyre
+  RE: void
+  AU: B. Lapeyre
+  YP: 1998
+  TI: void
+  N1: Université Paris 6
+- id: 2000DeLara
+  RE: void
+  AU: M. De Lara
+  YP: 2000
+  TI: "Structures géométriques Riemanniennes, modélisation de processus aléatoires de diffusion, application au filtrage non linéaire"
+  N1: Université Paris-Sud
+- id: 2000Piperno
+  AU: S. Piperno
+  YP: 2000
+  pdf: /assets/hdr/piperno.pdf
+  TI: "Contribution à l'étude mathématique et à la simulation numérique de phénomènes d'interaction fluide-structure"
+  N1: Université Paris 6
+- id: 2001Lerbet
+  RE: void
+  AU: J. Lerbet
+  YP: 2001
+  TI: "Synthèse des travaux: géométrie et mécanique"
+  N1: Université Paris 6
+- id: 2002Jourdain
+  AU: B. Jourdain
+  YP: 2002
+  pdf: /assets/hdr/jourdain.pdf
+  TI: "Interprétation probabiliste d' équations d'évolution non linéaires et applications"
+  N1: Université Paris 6
+- id: 2002Monneau
+  AU: R. Monneau
+  YP: 2002
+  pdf: /assets/hdr/monneau.pdf
+  TI: "Contribution a l' étude de problèmes à frontières libres et d'équations aux dérivées partielles elliptiques non linéaires. Applications en combustion et élasticité"
+  N1: Université Paris 6
+- id: 2003Cancès
+  AU: E. Cancès
+  YP: 2003
+  pdf: /assets/hdr/cances.pdf
+  TI: "Contributions à l'étude mathématique et numérique de modèles intervenant en simulation moléculaire et multi-échelle"
+  N1: Université Paris-Dauphine
+- id: 2003Delmas
+  AU: J.-F. Delmas
+  YP: 2003
+  pdf: /assets/hdr/delmas.pdf
+  TI: "Quelques propriétés des superprocessus"
+  N1: Université Paris 6
+- id: 2003Lanteri
+  AU: S. Lanteri
+  YP: 2003
+  LN: http://www.inria.fr/rrrt/th-026.html
+  TI: "Méthodes numériques performantes en maillages non-structurés et applications en mécanique des fluides compressibles"
+  N1: Université de Nice Sophia Antipolis
+- id: 2004Turinici
+  AU: G. Turinici
+  YP: 2004
+  pdf: /assets/hdr/turinici.pdf
+  TI: "Contrôle et simulations numériques en chimie quantique"
+  N1: Université Paris 6
+- id: 2007Imbert
+  AU: C. Imbert
+  YP: 2007
+  psd: imbert.pdf
+  TI: "Équations intégro-différentielles non-linéaires : questions d'existence, de régularité et d'homogénéisation"
+  N1: Université Paris-Dauphine
+- id: 2009Lelièvre
+  AU: T. Lelièvre
+  LN: http://tel.archives-ouvertes.fr/tel-00392808/fr/
+  TI: "Analyse mathématique et numérique de modèles pour les matériaux, de l'échelle microscopique à l'échelle macroscopique"
+  N1: Université Paris-Dauphine
+- id: 2011Chancelir
+  RE: void
+  AU: J.-Ph. Chancelier
+  YP: 2011
+  TI: "Contributions à la commande de systèmes dynamiques, aspects numériques et applications"
+  N1: Paris Est Sup
+- id: 2012Alfonsi
+  AU: A. Alfonsi
+  YP: 2012
+  LN: https://hal.archives-ouvertes.fr/hal-00143723v5/document
+  TI: "Discretization of processes and Modeling in Finance. Ecole des Ponts ParisTech"
+  N1: Paris Est Sup
+- id: 2012Meunier
+  RE: void
+  AU: F. Meunier
+  YP: 2012
+  TI: "Some questions in operations research, transport, and combinatorics"
+  N1: Paris Est Sup
+- id: 2012Stoltz
+  AU: G. Stoltz
+  YP: 2012
+  LN: http://tel.archives-ouvertes.fr/tel-00709965
+  TI: "Simulation moléculaire : Problèmes dynamiques et hors d'équilibre"
+  N1: Paris Est Sup
+- id: 2020Ehrlacher
+  AU: V. Ehrlacher
+  YP: 2020
+  LN: https://theses.fr/2012PEST1073
+  TI: "Mathematical and numerical analysis of some high-dimensional and multiscale problems in materials science"
+  N1: Université Paris-Dauphine
+- id: 2020Levitt
+  AU: A. Levitt
+  YP: 2020
+  LN: https://hal.inria.fr/tel-03434517/document
+  TI: "Mathematical and numerical analysis of models of condensed-matter physics"
+  N1: Paris Est Sup
+- id: 2021Reygner
+  AU: J. Reygner
+  YP: 2021
+  LN: https://theses.fr/2014PA066471
+  TI: "Theoretical analysis and numerical methods for conservation laws, metastability and uncertainty propagation"
+  N1: Paris Est Sup
+- id: 2023Hayat
+  AU: A. Hayat
+  YP: 2023
+  LN: https://hal.archives-ouvertes.fr/tel-04244703
+  TI: "Contributions à la stabilisation des systèmes d’évolution"
+  N1: Université Paris-Dauphine
+- id: 2023Leclere
+  AU: V. Leclere
+  YP: 2023
+  LN: https://hal.science/tel-04433079v1
+  TI: "Exact methods and applications of optimization under uncertainty"
+  N1: Paris Est Sup
+- id: 2024Parmentier
+  RE: void
+  AU: A. Parmentier
+  YP: 2024
+  TI: "Some contributions at the crossroad of machine learning and combinatorial optimization"
+  N1: Paris Est Sup

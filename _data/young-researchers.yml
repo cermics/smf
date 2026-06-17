@@ -1,0 +1,764 @@
+- TI: "Comparing probability measures in Reproducing Kernel Hilbert Spaces. Application to domain adaptation"
+  AU: Guillaume Chennetier
+  labo: CERMICS	
+  date: 2026/06/09
+  hour: "15h30"
+  where: CERMICS seminar room
+  next: "yes"
+- TI: "Constructing sharp and handy approximations of eigenfunctions and eigenvalues"
+  AU: Lois Delande
+  labo: CERMICS
+  date: 2026/06/24
+  hour: "15h00"
+  where: CERMICS seminar room
+  next: "yes"
+- TI: "TBA"
+  AU: Solène Delannoy-Pavy
+  labo: CERMICS
+  date: 2026/07/07
+  hour: "15h00"	
+  where: CERMICS seminar room
+  next: "yes"
+- TI: "Contributions in modelling and control of traffic flow"
+  AU: Nail Baloul
+  labo: CERMICS
+  date: 2026/07/21
+  hour: "15h00"	
+  where: CERMICS seminar room
+  next: "yes"
+- TI: "An extended approach of quantum embedding methods in Density Matrix Embedding Theory"
+  Ahref: "https://team.inria.fr/matherials/team-members/alicia-negre/"
+  AU: Alicia Negre
+  labo: CERMICS
+  date: 2026/05/19
+  hour: "15:00"
+  where: CERMICS seminar room
+  next: "yes"
+- TI: "TBA"
+  AU: Guillaume Chennetier
+  labo: CERMICS
+  date: 2026/06/09
+  hour: "15:00"
+  where: CERMICS seminar room
+  next: "yes"
+- TI: "Linear independence properties of the signature components of time-augmented stochastic processes"
+  AU: Lois Delande
+  labo: CERMICS
+  date: 2026/06/24
+  hour: "15:00"
+  where: CERMICS seminar room
+  next: "yes"
+- TI: "Linear independence properties of the signature components of time-augmented stochastic processes"
+  Ahref: "https://arthurbourdon.github.io"
+  AU: Arthur Bourdon
+  labo: CERMICS
+  date: 2026/03/31
+  hour: "15:00"
+  where: CERMICS seminar room
+- TI: "Numerical approximation of the Mortensen observer in high-dimension"
+  slides: "/assets/young-researchers/pres_mchassard_12-03-26_compressed.pdf"
+  Ahref: "https://chassardmartin.github.io/"
+  AU: Martin Chassard
+  labo: CERMICS
+  date: 2026/03/12
+  hour: "15:00"
+  where: CERMICS seminar room
+- TI: "Learning with Local Search MCMC Layers"
+  Ahref: "https://germainvivierardisson.github.io"
+  AU: Germain Vivier-Ardisson
+  labo: CERMICS
+  date: 2026/02/16
+  hour: "15:00"
+  where: CERMICS seminar room
+- TI: "Chaoticity and Ergodicity of Particle Systems under empirical moment constraints"
+  Ahref: "https://cermics-lab.enpc.fr/francois-escolan/"
+  AU: François Escolan
+  labo: CERMICS
+  date: 2026/02/03
+  hour: "15:00"
+  where: CERMICS seminar room
+- TI: "Fixed Point Theory in Game Theory"
+  Ahref: "https://yulusmalldog.github.io/"
+  AU: Lu Yu 
+  labo: CERMICS
+  date: 2026/01/27
+  hour: "15:45"
+  where: CERMICS seminar room
+- TI: "A geometric picture of linear response theory for variational methods"
+  slides: "/assets/young-researchers/slides_laura_13-01-26_compressed.pdf"
+  Ahref: "https://team.inria.fr/matherials/team-members/laura-grazioli/"
+  AU: Laura Grazioli
+  date: 2026/01/13
+  hour: "15:00" 
+  labo: CERMICS
+- TI: "A constrained saddle dynamics for computing electronic excited states"
+  slides: "/assets/young-researchers/slides_yukuan_13-01-26_compressed.pdf"
+  Ahref: "https://huyukuan.github.io"
+  AU: Yukuan Hu
+  labo: CERMICS
+  date: 2026/01/13
+  hour: "15:30" 
+  where: Room F202
+- TI: "Transformers and Symbolic Learning: A Mathematical Exploration"
+  AU:	Antoine Peyronnet 
+  labo: CERMICS
+  date: 2025/11/06
+  hour: "16:00"
+  where: CERMICS seminar room
+- TI: "Uncertainty Principles: Theory and Applications"
+  AU: Hui Xu
+  labo: CERMICS
+  date: 2025/10/29
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "On the diffusive-mean field limit on weakly interacting kinetic diffusions"
+  slides: "/assets/young-researchers/pres_rgastaldello_16-10-25.pdf"
+  Ahref: "https://team.inria.fr/matherials/team-members/raphael-gastaldello/"
+  AU: Raphaël Gastaldello
+  labo: CERMICS
+  date: 2025/10/16
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Battery management / Real-time pricing for bike sharing"
+  Ahref: "https://sites.google.com/view/rosesossouedou/"
+  AU: Rose Sossou Edou
+  labo: CERMICS/LVMT 
+  date: 2025/10/01
+  hour: "16:00"
+  where: CERMICS seminar room
+- TI: "Study of the Reflected Langevin Kinetic Process"
+  Ahref: "https://paulinvernizzi.github.io/"
+  AU: Paul Invernizzi
+  labo: CERMICS
+  date: 2025/09/25
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "The narrow escape problem: elements of proof"
+  slides: "/assets/young-researchers/pres_lcarillo_29-07-25.pdf"
+  Ahref: "https://louiscarillo.github.io/"
+  AU: Louis Carillo
+  labo: CERMICS
+  date: 2025/07/29
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Least-square formulation for the time dependent Schrödinger equation"
+  slides: "/assets/young-researchers/pres_cguillot_22-07-25.pdf"
+  Ahref: "https://team.inria.fr/matherials/team-members/clement-guillot/"
+  AU: Clément Guillot
+  labo: CERMICS
+  date: 2025/07/22
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Stochastic algorithms for high-dimensional sampling in molecular dynamics"
+  AU: Nicolaï Gouraud
+  labo: LJLL
+  date: 2025/05/22
+  hour: "14:00"
+  where: Room F108
+- TI: "Code optimization in Julia"
+  AU: Mathis Brichet
+  labo: CERMICS
+  date: 2025/04/23
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Tutorial cluster"
+  slides: "/assets/young-researchers/presentation_cluster_louis_17-04-25.pdf"
+  Ahref: "https://louiscarillo.github.io/"
+  AU: Louis Carillo
+  labo: CERMICS
+  date: 2025/04/17
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Higher-order integration methods for Brillouin Zone integration"
+  slides: "/assets/young-researchers/Présentation-Cermics-25-02-25-1.pdf"
+  AU: Ewen Lallinec
+  labo: Institut de Mathématiques d'Orsay
+  date: 2025/02/25
+  hour: "14:00"
+  where: Room F102
+- TI: "Introduction to data security in a network - or why security is nearly impossible"
+  AU: Gabriel Potter
+  labo: ANSSI
+  date: 2025/02/20
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Gog and Magog triangles, and their lattice structures"
+  slides: "/assets/young-researchers/slides_ludovic_schwob.pdf"
+  AU: Ludovic Schwob
+  labo: LIGM
+  date: 2025/02/05
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Construction of yearly schedules for drivers"
+  AU: Héloïse Gachet
+  labo: CERMICS
+  date: 2024/11/07
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Witsenhausen Model for Leader-Follower Problems in Energy Management"
+  slides: "/assets/young-researchers/slides_seminaire_des_jeunes_BUCHHOLTZER.pdf"
+  AU: Thomas Buchholtzer
+  labo: CERMICS 
+  date: 2024/10/01
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "F-equivalence for Parabolic Systems and Applications to the Stabilization of Linear and Nonlinear PDEs"
+  Ahref: "https://vincentboulard.fr/"
+  AU: Vincent Boulard
+  labo: CERMICS 
+  date: 2024/09/03
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Growing a stochastic sub-tree for mixed-integer linear programming under uncertainty"
+  Ahref: "https://zfornier.github.io/"
+  AU: Zoé Fornier
+  labo: CERMICS 
+  date: 2024/06/27
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Shape optimization of eigenvalues and spectral asymptotics for metastable diffusions"
+  Ahref: "https://noeblassel.github.io/"
+  AU: Noé Blassel
+  labo: CERMICS
+  date: 2024/06/25
+  hour: "14:00"
+  where: Amphi Caquot
+- TI: "Online Mechanism Design with Predictions"
+  Ahref: "https://ieor.columbia.edu/content/cherlin-zhu"
+  AU: Cherlin Zhu 
+  labo: IOER, Columbia University 
+  date: 2024/06/18
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Reduction methods for physics and quantum chemistry models"
+  Ahref: "https://team.inria.fr/matherials/team-members/laurent-vidal"
+  AU: Laurent Vidal
+  labo: CERMICS
+  date: 2024/06/13
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Abstract Cutting Plane Method applied to Sparse Optimization"
+  Ahref: "https://setar0202.github.io/"
+  AU: Seta Rakotomandimby
+  labo: CERMICS
+  date: 2024/05/28
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "The Jellium and Uniform Electron Gas models and multimarginal optimal transport"
+  Ahref: "https://rodriguel.github.io/"
+  AU: Rodrigue Lelotte
+  labo: CERMICS
+  date: 2024/02/13
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "On non-negative solutions of stochastic Volterra equations with jumps"
+  Ahref: "https://cermics-lab.enpc.fr/guillaume-szulda/"
+  AU: Guillaume Szulda
+  labo: CERMICS 
+  date: 2024/01/30
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Central limit theorem for non linear functionals of empirical measures and for the stratified resampling mechanism"
+  Ahref: "https://robertaflenghi.github.io/"
+  AU: Roberta Flenghi
+  labo: CERMICS
+  date: 2023/12/18
+  hour: "14:00"
+  where: F103
+- TI: "Noyau et quasi-noyaux dans les graphes orientés"
+  Ahref: "http://helene-langlois.alwaysdata.net/perso/"
+  AU: Hélène Langlois
+  labo: CERMICS 
+  date: 2023/12/13
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Semiclassical analysis of two-scale electronic Hamiltonians for twisted bilayer graphene"
+  Ahref: "https://mltj01.github.io/long-meng.github.io/"
+  AU: Long Meng
+  labo: CERMICS 
+  date: 2023/12/12
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Cross-diffusion systems in moving-boundary domains"
+  Ahref: "https://team.inria.fr/matherials/team-members/jean-cauvin-vila/"
+  AU: Jean Cauvin-Vila
+  labo: CERMICS 
+  date: 2023/12/07
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Multiscale methods : non-intrusive implementation, advection-dominated problems and related topics"
+  AU: Rutger Biezemans
+  labo: CERMICS 
+  date: 2023/09/14
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Accommodating fairness in a shared-energy allocation problem with uncertainties"
+  Ahref: "https://zfornier.github.io/"
+  AU: Zoé Fornier
+  labo: CERMICS 
+  date: 2023/07/10
+  hour: "15:00"
+  where: CERMICS seminar room
+- TI: "Résolution numérique par réseaux neuronaux de l'équation de Poisson-Neumann en dimension grande"
+  Ahref: "https://mathiasdus.gtsb.io/"
+  AU: Mathias Dus
+  labo: CERMICS 
+  date: 2023/05/31
+  hour: "15:00"
+  where: CERMICS seminar room 
+  recording: "https://youtu.be/l00WeyBTYlQ"
+- TI: "CBI-time-changed Lévy processes"
+  Ahref: "https://cermics-lab.enpc.fr/guillaume-szulda/"
+  AU: Guillaume Szulda
+  labo: CERMICS 
+  date: 2023/05/17
+  hour: "15:00"
+  where: CERMICS seminar room 
+  recording: "https://youtu.be/QJ558l212AA"
+- TI: "Diffraction électromagnétique par une couche mince de nanoparticules réparties aléatoirement : développement asymptotique, conditions effectives et simulations"
+  slides: "/assets/young-researchers/slides_séminaire.pdf"
+  AU: Amandine Boucart
+  labo: CERMICS 
+  date: 2023/05/03
+  hour: "15:00"
+  where: CERMICS seminar room 
+  recording: "https://youtu.be/6JshVnScLEU"
+- TI: "Input-to-state stability of time-delay systems"
+  slides: "/assets/young-researchers/Presentation_Cermics.pdf"
+  Ahref: "https://lokoepiphane.github.io/"
+  AU: Épiphane Loko
+  labo: CERMICS 
+  date: 2023/04/18
+  hour: "14:00"
+  where: CERMICS seminar room 
+  recording: "https://youtu.be/6dXmpGbGNpE"
+- TI: "Atomic decomposition of a positive compact operator on $L^p$"
+  slides: "/assets/young-researchers/slides_kacem.pdf"
+  Ahref: "https://sites.google.com/view/kacem-lefki/"
+  AU: Kacem Lefki 
+  labo: CERMICS and LAMA Université Gustave Eiffel 
+  date: 2023/03/22
+  hour: "15:00"
+  where: CERMICS seminar room
+  recording: "https://youtu.be/VuImr3LNlJQ"
+- TI: "Sticky Coupling as a Control Variate for Computing Transport Coefficients"
+  slides: "/assets/young-researchers/Shiva_seminaire_cermics.pdf"
+  Ahref: "https://shiva-darshan.github.io/"
+  AU: Shiva Darshan 
+  labo: CERMICS 
+  date: 2023/02/22
+  hour: "15:00"
+  where: CERMICS seminar room
+  recording: "https://youtu.be/nreLqzgcR80"
+- TI: "Gibbs principle on path space and link to stochastic control"
+  slides: "/assets/young-researchers/Louis-Pierre_Slides_Cermics_Doctorants-compressed.pdf"
+  Ahref: "https://www.normalesup.org/~lchaintron/"
+  AU: Louis-Pierre Chaintron 
+  labo: CERMICS 
+  date: 2023/02/08
+  hour: "15:00"
+  where: CERMICS seminar room
+  recording: "https://youtu.be/oTf00ZpwFyI"
+- TI: "Machine Learning and Combinatorial Optimization for the Dynamic Vehicle Routing Problem"
+  slides: "/assets/young-researchers/main-1.pdf"
+  Ahref: "http://cermics.enpc.fr/~batyl/"
+  AU: Léo Baty 
+  labo: CERMICS 
+  date: 2023/01/25
+  hour: "15:00"
+  where: CERMICS seminar room
+- TI: "Invariants topologiques et chaîne de Kitaev"
+  slides: "/assets/young-researchers/Perrin-Roussel_Solal_Soutenance-2022_03_30-13_22_21-UTC.pdf"
+  Ahref: "https://team.inria.fr/matherials/team-members/solal-perrin-roussel/"
+  AU: Solal Perrin-Roussel
+  labo: CERMICS 
+  date: 2023/01/11
+  hour: "15:00"
+  where: CERMICS seminar room
+- TI: "LaTex : les erreurs courantes"
+  slides: "https://plmlab.math.cnrs.fr/infomath/latex"
+  Ahref: "https://www.ceremade.dauphine.fr/~chupin/"
+  AU: Maxime Chupin
+  labo: CEREMADE
+  date: 2022/12/07
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Coupled industrial production and energy supply planning"
+  slides: "/assets/young-researchers/main.pdf"
+  Ahref: "https://zfornier.github.io/"
+  AU: Zoe Fornier 
+  labo: CERMICS 
+  date: 2022/11/23
+  hour: "15:00"
+  where: CERMICS seminar room
+- TI: "Journées scientifiques des Jeunes du Cermics, First edition (2022-2023)"
+  AU: Cermics
+  date: 2022/11/02
+  to: 2011/11/04
+- TI: "Real-World modelling and validation for applications in the insurance industry"
+  AU: Hervé Andres
+  labo: CERMICS, ENPC 
+  date: 2022/01/05
+  hour: "15:30"
+  where: CERMICS seminar room
+- TI: "Improved multiscale finite element methods for advection-diffusion problems"
+  AU: Rutger Biezemans
+  labo: CERMICS 
+  date: 2022/05/02
+  hour: "14:00"
+  where: room F102
+- TI: "A tractable class of Partially Observed Markovian Decision Process: det-POMDP"
+  AU: Cyrille Vessaire
+  labo: CERMICS 
+  date: 2022/05/25
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Off-the-grid learning of sparse mixtures from a continuous dictionary"
+  AU: Clément Hardy
+  labo: CERMICS 
+  date: 2022/05/11
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Algorithms for Restricted-Open-Shell Hartree Fock"
+  AU: Laurent Vidal
+  labo: CERMICS 
+  date: 2022/04/27
+  hour: "14:00"
+  where: CERMICS seminar room
+- TI: "Elliptic homogenization for a class of highly oscillating non-periodic potentials"
+  AU: Rémi Goudey
+  labo: CERMICS 
+  date: 2022/04/07
+  hour: "14:00"
+  where: room F103
+- TI: "Discretizing Langevin dynamics with multiplicative noise for sampling high-dimensional probability measures"
+  AU: Régis Santet
+  labo: CERMICS 
+  date: 2022/03/16
+  hour: "15:00"
+  where: room F102
+- TI: "Subdifferentiability in Convex and Stochastic Optimization Applied to Renewable Power Systems"
+  AU: Adrien Lefranc
+  labo: CERMICS 
+  date: 2021//11/29
+  hour: "14:30"
+  where: CERMICS seminar room
+- TI: "Stochastic optimization for the procurement of crude oil in refineries"
+  AU: Thomas Martin
+  labo: CERMICS 
+  date: 2021//11/23
+  hour: "14:30"
+  where: CERMICS seminar room
+- TI: "Epidemic models in Infinite dimension and optimal vaccination strategies"
+  AU: Dylan Dronnier
+  labo: CERMICS 
+  date: 2021//11/16
+  hour: "14:30" 
+  where: Coriolis, F108
+- TI: "Central limit theorem over non-linear functionals of empirical measures: beyond the iid setting"
+  AU: Roberta Flenghi
+  labo: CERMICS 
+  date: 2021//11/09
+  hour: "14:30" 
+  where: CERMICS seminar room
+- TI: "2-Stage Stochastic Linear Programming and Polyhedral Geometry"
+  AU: Maël Forcer
+  labo: CERMICS 
+  date: 2021//10/19
+  hour: "14:30"
+  where: CERMICS seminar room
+- TI: "Matrices de covariance: diffusions, probabilités libres et apprentissage profond"
+  AU: Ezechiel Kahn
+  labo: CERMICS
+  date: 2021//06/15
+  hour: "15:00"
+- TI: "Quasi-noyaux dans les graphes orientés"
+  AU: Hélène Langlois
+  labo: CERMICS
+  date: 2021//05/19
+  hour: "15:00"
+- TI: "Multi-scale finite element methods"
+  AU: Rutger Biezemans
+  labo: CERMICS
+  date: 2021//04/15
+  hour: "15:00"
+- TI: "Scheduling algorithms for an industrial solver"
+  AU: Léa Blaise
+  labo: LocalSolver
+  date: 2020/10/03
+  hour: "13:30"
+  where: CERMICS seminar room
+- TI: "Strong solutions to a beta-Wishart particle system"
+  AU: Ezechiel Kahn
+  labo: CERMICS 
+  date: 2020/03/03
+  hour: "13:30"
+  where: CERMICS seminar room
+- TI: "An infinite-dimensional SIS model"
+  AU: Dylan Dronnier
+  labo: CERMICS 
+  date: 2019/01/03
+  hour: "13:30"
+  where: Coriolis, room F207
+- TI: "Rate of convergence towards equilibrium for a collisionless gas: a coupling approach"
+  AU: Armand Bernou
+  labo: LPSM, Paris 6 
+  date: 2019/11/19
+  hour: "13:30"
+- TI: "Mathematical quantum chemistry... and how to apply it in a periodic setting"
+  slides: "/assets/young-researchers/2019.11.07_enpc_math_qchem.pdf"
+  AU: Michael Herbst
+  labo: CERMICS 
+  date: 2019/11/17
+  hour: 1:30 p.m.
+- TI: "A synthetic model for asset and liability and liability management with and analysis of the SCR with the standard formula"
+  AU: Adel Cherchali
+  labo: CERMICS 
+  date: 2019/10/15
+  hour: "13:30"
+- TI: "Robust coarse spaces for the boundary element method"
+  AU: Pierre Marchand
+  labo: LJLL, Paris 6 
+  date: 2019/06/19
+  hour: "15:00"
+- TI: "Sampling rare events with AMS: about having the correct ensemble of initial conditions"
+  AU: Laura Lopes
+  labo: CERMICS 
+  date: 2019/06/05
+  hour: "15:00"
+- TI: "Bias behaviour for mean-field rank based particle approximations of one dimensional viscous scalar conservation law"
+  AU: Oumaima Bencheikh
+  labo: CERMICS 
+  date: 2019/01/24
+  hour: "15:00"
+- TI: "New weak error bounds and expansions for optimal quantization"
+  AU: Thibaut Montes
+  labo: LPSM, Université Paris 6 
+  date: 2019/01/10
+  hour: "15:00"
+- TI: "A new family of one dimensional martingale couplings"
+  AU: William Margheriti
+  labo: CERMICS 
+  date: 2019/01/26
+  hour: "15:00"
+- TI: "Couches limites en océanographie : le modèle quasigéostrophique"
+  AU: Gabriela Lopez
+  labo: LJLL, Université Paris 6 
+  date: 2019/01/13
+  hour: "15:00"
+- TI: "Metastable processes and quasi-stationary distributions"
+  AU: Mouad Ramil
+  labo: CERMICS 
+  date: 2019/01/13
+  hour: "15:00"
+- TI: "Approximation of OT problems with marginal moments constraints"
+  AU: Rafaël Coyaud
+  labo: CERMICS 
+  date: 2019/01/16
+  hour: "15:00"
+- TI: "Balancing cost and flexibility in supply chain"
+  AU: Étienne de Saint Germain
+  labo: CERMICS 
+  date: 2018/1/05
+  hour: "15:00"
+- TI: "Theoretical and numerical analysis of non-reversible dynamics in computational statistical physics"
+  AU: Julien Roussel
+  labo: CERMICS 
+  date: 2018/11/19
+  hour: "14:00"
+- TI: "The Generalized Parallel Replica dynamics for the long time simulation of metastable biochemical systems"
+  AU: Florent Hédin
+  labo: CERMICS 
+  date: 2018/11/08
+  hour: "14:00"
+- TI: "Mean-field limit for a Cucker-Smale particle system with random alignment force"
+  AU: Angelo Rosello
+  labo: IRMAR, ENS Rennes 
+  date: 2018/10/16
+  hour: "15:00"
+- TI: "Linear Programming for Influence Diagrams: exact approaches"
+  AU: Victor Cohen
+  labo: CERMICS 
+  date: 2018/10/03
+  hour: "15:00"
+- TI: "The Hohenberg-Kohn theorem"
+  AU: Louis Garrigue
+  labo: CEREMADE, Université Paris Dauphine
+  date: 2018/08/01
+- TI: "PAW method for eigenvalues problems of electronic Hamiltonians"
+  AU: Mi-Song Dupuy
+  labo: LJLL, Université Paris Diderot
+  date: 2018/07/01
+- TI: "Asymptotic analysis of large random graphs"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/MSciauveau_13062018.pdf"
+  AU: Marion Sciauveau
+  labo: LAGA, Université Paris 13
+  labo: CERMICS
+  date: 2018/06/13
+- TI: "Continuous-time principal-agent problem with uncertain parameter and path-dependent FBSDEs"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/KHu_29052018.pdf"
+  AU: Kaitong Hu
+  labo: CMAP, Ecole polytechnique
+  date: 2018/05/29
+- TI: "Bias behaviour and antithetic sampling in mean-field particle approximations of SDEs nonlinear in the sense of McKean"
+  AU: Oumaima Bencheikh
+  labo: CERMICS 
+  date: 2018/05/22
+  hour: "15:00"
+- TI: "Non central limit theorem on Poisson space"
+  AU: Ronan Herry
+  labo: Université du Luxembourg, LAMA
+  date: 2018/05/22
+- TI: "Numerical methods for the valuation and partial hedging problem"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/CBenezet_02052018.pdf"
+  AU: Cyril Benezet
+  labo: LPSM, Université Paris Diderot
+  date: 2018/05/02
+- TI: "Effective Dirac equations in honeycomb structures"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/WBorrelli_11042018.pdf"
+  AU: William Borrelli
+  labo: CEREMADE, Université Paris-Dauphine
+  date: 2018/04/11
+- TI: "Statistical analysis of manifold-valued data"
+  AU: Maxime Louis
+  labo: Université Pierre et Marie Curie
+  date: 2018/04/11
+- TI: "Numerical approximation of the invariant measure of a stochastic conservation law"
+  AU: Sofiane Martel
+  labo: CERMICS / laboratoire d'hydraulique Saint Venant, ENPC
+  date: 2018/04/11
+- TI: "Local time and finance applications"
+  AU: Mohammed Anass Ben Taleb
+  labo: CERMICS
+  date: 2018/04/11
+- TI: "Numerical approximations of McKean anticipative backward stochastic differential equations arising in variation margin requirements"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/AZhou_27022018.pdf"
+  AU: Alexandre Zhou
+  labo: CERMICS
+  date: 2018/02/27
+- TI: "On risk averse competitive equilibrium"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/HGerard_27022018.pdf"
+  AU: Henri Gerard
+  labo: CERMICS
+  date: 2018/02/27
+- TI: "Cluster dynamics in materials: a hybrid deterministic/stochastic coupling algorithm"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/PTerrier_06022018.pdf"
+  AU: Pierre Terrier
+  labo: CEA Saclay, CERMICS
+  date: 2018/02/06
+- TI: "Dynamic visco-plasticity computed with discrete element methods"
+  AU: Frédéric Marazzato
+  labo: CERMICS
+  date: 2018/02/06
+- TI: "Course: Markov chain and stochastic stability, the analyst's point of view"
+  AU: Grégoire Ferré
+  labo: CERMICS
+  date: 2018/02/06
+- TI: "Algorithms for Train Scheduling on a Single Line"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/LDaudet_20122017.pdf"
+  AU: Laurent Daudet
+  labo: CERMICS
+  date: 2017/12/20
+- TI: "Mathematics for Photovoltaic: From Cross-Diffusion to Schrödinger operator"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/ABakhta_13122017.pdf"
+  AU: Athmane Bakhta
+  labo: CERMICS
+  date: 2017/12/13
+- TI: "Considérations sur une équation intégrodifférentielle avec retard"
+  AU: Marc Josien
+  labo: CERMICS
+  date: 2017/11/07
+- TI: "Spectral Methods and Semi-Classical Analysis in Molecular Dynamic"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/BNectoux_07112017.pdf"
+  AU: Boris Nectoux
+  labo: CERMICS
+  date: 2017/11/07
+- TI: "Some topics on quantum transport"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/LCao_25102017.pdf"
+  AU: Lingling Cao
+  labo: CERMICS
+  date: 2017/10/25
+- TI: "Solving the Firefighter problem on trees"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/APass-Lanneau_10102017.pdf"
+  AU: Adèle Pass-Lanneau
+  labo: CERMICS
+  date: 2017/10/10
+- TI: "An energy-conserving explicit time-integration scheme for nonlinear Hamiltonian dynamics"
+  slides: "http://cermics.enpc.fr/~coyaudr/slides/FMarazzato_29052017.pdf"
+  AU: Frédéric Marazzato
+  labo: CERMICS
+  date: 2017/05/29
+- TI: "Duality structure for multi-marginal martingale optimal transport"
+  AU: Hadrien De March
+  labo: CMAP, Ecole Polytechnique
+  date: 2017/05/29
+- TI: "On the discretization of Feynman-Kac semi-groups"
+  slides: "http://cermics.enpc.fr/~zhoua/slides/GFerre_052017.pdf"
+  AU: Grégoire Ferré
+  labo: CERMICS
+  date: 2017/05/29
+- TI: "Adaptive Multilevel Splitting: sampling rare events in molecular dynamic"
+  AU: Laura Silva-Lopes
+  labo: CERMICS
+  date: 2017/05/29
+- TI: "Stochastic homogenization: estimation of fluctuations in multiscale materials"
+  slides: "http://cermics.enpc.fr/~zhoua/slides/PLRothe_042017.pdf"
+  AU: Pierre-Loïk Rothé
+  labo: CERMICS / NAVIER, ENPC
+  date: 2017/04/01
+- TI: "Using stochastic optimization for the management of energy systems"
+  slides: "http://cermics.enpc.fr/~zhoua/slides/FPacaud_042017.pdf"
+  AU: François Pacaud
+  labo: CERMICS / Efficacity
+  date: 2017/04/01
+- TI: "Resource constrained shortest path algorithm for EDF short-term thermal production planning problem"
+  slides: "http://cermics.enpc.fr/%7Ezhoua/slides/MKruber_032017.pdf"
+  AU: Markus Kruber
+  labo: RWTH Aachen University, CERMICS
+  date: 2017/03/01
+- TI: "Discontinuous Skeletal Methods for yield stress fluids"
+  slides: "http://cermics.enpc.fr/~zhoua/slides/KCascavita_032017.pdf"
+  AU: Karol Cascavita
+  labo: CERMICS
+  date: 2017/03/01
+- TI: "A continuous ancestral recombination graph"
+  AU: Gustave Emprin
+  labo: CERMICS
+  date: 2017/02/01
+- TI: "Sur les électrons dans un cristal (opérateurs de Schrödinger périodiques)"
+  AU: Athmane Bakhta
+  labo: CERMICS
+  date: 2017/02/01
+- TI: "A stochastic multi-item lot-sizing problem with bounded number of setups"
+  slides: "http://cermics.enpc.fr/%7Ezhoua/slides/EDesaintgermain_022017.pdf"
+  AU: Etienne de Saint Germain
+  labo: Argon Consulting, CERMICS
+  date: 2017/02/01
+- TI: "Simulations de dislocations par l'équation de Weertman"
+  slides: "http://cermics.enpc.fr/%7Ezhoua/slides/MJosien_012017.pdf"
+  AU: Marc Josien
+  labo: CERMICS
+  date: 2017/01/01
+- TI: "Méthodes d'EDP pour la physique statistique"
+  slides: "http://cermics.enpc.fr/%7Ezhoua/slides/JRoussel_092016.pdf"
+  AU: Julien Roussel
+  labo: CERMICS
+  date: 2016/09/01
+- TI: "Etude de fonctionnelles de coût sur les arbres aléatoires"
+  slides: "http://cermics.enpc.fr/%7Ezhoua/slides/MSciauveau_092016.pdf"
+  AU: Marion Sciauveau
+  labo: CERMICS
+  date: 2016/09/01
+- TI: "Fake Brownian motion and calibration of regime switching local volatility models"
+  slides: "http://cermics.enpc.fr/%7Ezhoua/slides/AZhou_092016.pdf"
+  AU: Alexandre Zhou
+  date: 2016/09/01
+  labo: CERMICS
+- TI: "Computing kernels of graphs"
+  slides: "http://cermics.enpc.fr/%7Ezhoua/slides/APassLaneau_062016.pdf"
+  AU: Adèle Pass-Lanneau
+  labo: CERMICS
+  date: 2016/06/01
+
+
+
