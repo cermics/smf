@@ -1,5 +1,53 @@
-- date: 2026/05/19
+- date: 2026/06/23
   status: "future"
+  AU: Clément Foucart
+  TI: "Processus de Markov positifs en dualité de Laplace"
+- date: 2026/06/16
+  status: "past"
+  AU: Clément Rey
+  UN: CMAP, École Polytechnique
+  TI: "Malliavin calculus for signatures"
+  abstract: "This talk
+  explores Malliavin calculus for finite linear combinations of time-extended
+  Brownian motion signatures. By exploiting the algebraic properties of
+  signatures, we establish explicit formulas for the fundamental Malliavin
+  operators.  This leads to integration-by-parts formulas where the Malliavin
+  weight is expressed as a function of linear functionals of the
+  signature. These results enable the computation of key values, such as
+  densities and sensitivities, in signature-based models."
+- date: 2026/06/09
+  status: "past"
+  AU: Adrien Barrasso
+  UN: LaMME, Université d'Évry
+  TI: "Un survey sur l'Euclidean Quantum Field Theory (EQFT) et la Stochastic Quantization"
+  abstract: "Cet exposé présentera un petit historique des principaux résultats
+  de l'EQFT et des méthodes de Stochastic Quantization. Je partirai de l'EQFT
+  dite “constructive” développée dans les années 70, et terminerai avec les
+  développements récents (2014-2025) concernant les solutions fortes du modèle
+  Phi-4-3 dynamique."
+- date: 2026/06/02
+  status: "past"
+  AU: Gilles Pagès
+  TI: "Volterra equations with affine drift: looking for stationarity with application to the quadratic rough Heston model"
+  abstract: "We investigate the properties of the solutions of scaled Volterra
+  equations (i.e. having an affine mean-reverting drift) in terms of stationarity
+  at both a finite horizon and on the long run. In particular we prove that such
+  an equation never has a stationary regime, except if the kernel is constant
+  (i.e. the equation is a standard Brownian diffusion) or in some fully degenerate
+  pathological settings. We introduce a deterministic stabilizer $\varsigma$
+  associated to the kernel which may produce a fake stationary regime in the sense
+  that all the marginals share the same expectation and variance. We also show
+  that the marginals of such a process when starting from various initial values
+  are $L^2$-contracting (a.k.a.a confluent) as time goes to infinity. We establish
+  that for some classes of diffusion coefficients (square root of positive
+  quadratic polynomials) the time shifted solutions of such Volterra equations
+  weakly functionally converge toward a family of $L^2$-stationary processes sharing
+  the same covariance function. We apply these results to a family of stabilized
+  quadratic rough volatility models with fractional kernel
+  which produces examples of Volterra
+  processes sharing a fake stationary regime"
+- date: 2026/05/19
+  status: "past"
   AU: Aurélien Grenard
   hour: 14h00 (B211, Bâtiment Coriolis)
   TI: "Neural Regression and Randomized Optimization for Impulse Control Problems"
